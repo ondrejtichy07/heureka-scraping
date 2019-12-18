@@ -38,7 +38,7 @@ def print_value():
         row += 1
 
     workbook.close()
-    time.sleep(6)
+    time.sleep(86400)
 
 while True:
     print_value()
